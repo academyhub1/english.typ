@@ -1,0 +1,2402 @@
+[
+  {
+    "text": "i like to drink coffee in the morning",
+    "pronunciation": "ai laik tu drink cófi in dhâ mórnin",
+    "translation": "eu gosto de tomar café de manhã",
+    "level": "basic"
+  },
+  {
+    "text": "she always listens to music while working",
+    "pronunciation": "shi ólueiz líssens tu miuzik uáil uôrkin",
+    "translation": "ela sempre escuta música enquanto trabalha",
+    "level": "basic"
+  },
+  {
+    "text": "we are going to the supermarket later",
+    "pronunciation": "uí ar gôuin tu dhâ súpêrmarket lêiter",
+    "translation": "nós vamos ao supermercado mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "can you please help me with this task",
+    "pronunciation": "ken iú plíz rélp mi uíth dhis téssk",
+    "translation": "você pode me ajudar com essa tarefa",
+    "level": "basic"
+  },
+  {
+    "text": "i usually wake up at seven and take a shower",
+    "pronunciation": "ai iujúali uêik âp ét séven end teik â sháuêr",
+    "translation": "eu geralmente acordo às sete e tomo banho",
+    "level": "basic"
+  },
+  {
+    "text": "he likes to play soccer with his friends",
+    "pronunciation": "ri laiks tu plêi sókêr uíth riz frends",
+    "translation": "ele gosta de jogar futebol com os amigos",
+    "level": "basic"
+  },
+  {
+    "text": "they are watching a movie together",
+    "pronunciation": "dêi ar uótchin â múvi tugéder",
+    "translation": "eles estão assistindo a um filme juntos",
+    "level": "basic"
+  },
+  {
+    "text": "i always brush my teeth before bed",
+    "pronunciation": "ai ólueiz brâsh mai títh bifór béd",
+    "translation": "eu sempre escovo os dentes antes de dormir",
+    "level": "basic"
+  },
+  {
+    "text": "my brother is taller than me",
+    "pronunciation": "mai brâdêr iz tóler dhén mi",
+    "translation": "meu irmão é mais alto que eu",
+    "level": "basic"
+  },
+  {
+    "text": "we need to clean the kitchen today",
+    "pronunciation": "uí niid tu clín dhâ kítchên tudêi",
+    "translation": "precisamos limpar a cozinha hoje",
+    "level": "basic"
+  },
+  {
+    "text": "i have a lot of things to do",
+    "pronunciation": "ai rév â lót óv things tu du",
+    "translation": "eu tenho muitas coisas para fazer",
+    "level": "basic"
+  },
+  {
+    "text": "please speak more slowly",
+    "pronunciation": "plíz spik mór slôuli",
+    "translation": "por favor, fale mais devagar",
+    "level": "basic"
+  },
+  {
+    "text": "do you want to go out for lunch",
+    "pronunciation": "du iú uónt tu gôu aut fór lântch",
+    "translation": "você quer sair para almoçar",
+    "level": "basic"
+  },
+  {
+    "text": "i am going to visit my grandparents tomorrow",
+    "pronunciation": "ai am gôuin tu vízit mai gréndpérêts tumórôu",
+    "translation": "vou visitar meus avós amanhã",
+    "level": "basic"
+  },
+  {
+    "text": "the dog is playing in the garden",
+    "pronunciation": "dhâ dógu iz plêin in dhâ jârdên",
+    "translation": "o cachorro está brincando no jardim",
+    "level": "basic"
+  },
+  {
+    "text": "she is reading an interesting book",
+    "pronunciation": "shi iz ríidin én íntrestin buk",
+    "translation": "ela está lendo um livro interessante",
+    "level": "basic"
+  },
+  {
+    "text": "do you like to cook at home",
+    "pronunciation": "du iú laik tu kuk ét rôum",
+    "translation": "você gosta de cozinhar em casa",
+    "level": "basic"
+  },
+  {
+    "text": "he goes to the gym every morning",
+    "pronunciation": "ri gôuz tu dhâ djim évri mórnin",
+    "translation": "ele vai à academia toda manhã",
+    "level": "basic"
+  },
+  {
+    "text": "i prefer tea over coffee",
+    "pronunciation": "ai prifér tii ôuvêr cófi",
+    "translation": "eu prefiro chá a café",
+    "level": "basic"
+  },
+  {
+    "text": "can we meet at the park later",
+    "pronunciation": "ken uí mít ét dhâ párk lêiter",
+    "translation": "podemos nos encontrar no parque mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "i like to drink coffee in the morning",
+    "pronunciation": "ai laik tu drink cófi in dhâ mórnin",
+    "translation": "eu gosto de tomar café de manhã",
+    "level": "basic"
+  },
+  {
+    "text": "she always listens to music while working",
+    "pronunciation": "shi ólueiz líssens tu miuzik uáil uôrkin",
+    "translation": "ela sempre escuta música enquanto trabalha",
+    "level": "basic"
+  },
+  {
+    "text": "we are going to the supermarket later",
+    "pronunciation": "uí ar gôuin tu dhâ súpêrmarket lêiter",
+    "translation": "nós vamos ao supermercado mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "can you please help me with this task",
+    "pronunciation": "ken iú plíz rélp mi uíth dhis téssk",
+    "translation": "você pode me ajudar com essa tarefa",
+    "level": "basic"
+  },
+  {
+    "text": "i usually wake up at seven and take a shower",
+    "pronunciation": "ai iujúali uêik âp ét séven end teik â sháuêr",
+    "translation": "eu geralmente acordo às sete e tomo banho",
+    "level": "basic"
+  },
+  {
+    "text": "he likes to play soccer with his friends",
+    "pronunciation": "ri laiks tu plêi sókêr uíth riz frends",
+    "translation": "ele gosta de jogar futebol com os amigos",
+    "level": "basic"
+  },
+  {
+    "text": "they are watching a movie together",
+    "pronunciation": "dêi ar uótchin â múvi tugéder",
+    "translation": "eles estão assistindo a um filme juntos",
+    "level": "basic"
+  },
+  {
+    "text": "i always brush my teeth before bed",
+    "pronunciation": "ai ólueiz brâsh mai títh bifór béd",
+    "translation": "eu sempre escovo os dentes antes de dormir",
+    "level": "basic"
+  },
+  {
+    "text": "my brother is taller than me",
+    "pronunciation": "mai brâdêr iz tóler dhén mi",
+    "translation": "meu irmão é mais alto que eu",
+    "level": "basic"
+  },
+  {
+    "text": "we need to clean the kitchen today",
+    "pronunciation": "uí niid tu clín dhâ kítchên tudêi",
+    "translation": "precisamos limpar a cozinha hoje",
+    "level": "basic"
+  },
+  {
+    "text": "i have a lot of things to do",
+    "pronunciation": "ai rév â lót óv things tu du",
+    "translation": "eu tenho muitas coisas para fazer",
+    "level": "basic"
+  },
+  {
+    "text": "please speak more slowly",
+    "pronunciation": "plíz spik mór slôuli",
+    "translation": "por favor, fale mais devagar",
+    "level": "basic"
+  },
+  {
+    "text": "do you want to go out for lunch",
+    "pronunciation": "du iú uónt tu gôu aut fór lântch",
+    "translation": "você quer sair para almoçar",
+    "level": "basic"
+  },
+  {
+    "text": "i am going to visit my grandparents tomorrow",
+    "pronunciation": "ai am gôuin tu vízit mai gréndpérêts tumórôu",
+    "translation": "vou visitar meus avós amanhã",
+    "level": "basic"
+  },
+  {
+    "text": "the dog is playing in the garden",
+    "pronunciation": "dhâ dógu iz plêin in dhâ jârdên",
+    "translation": "o cachorro está brincando no jardim",
+    "level": "basic"
+  },
+  {
+    "text": "she is reading an interesting book",
+    "pronunciation": "shi iz ríidin én íntrestin buk",
+    "translation": "ela está lendo um livro interessante",
+    "level": "basic"
+  },
+  {
+    "text": "do you like to cook at home",
+    "pronunciation": "du iú laik tu kuk ét rôum",
+    "translation": "você gosta de cozinhar em casa",
+    "level": "basic"
+  },
+  {
+    "text": "he goes to the gym every morning",
+    "pronunciation": "ri gôuz tu dhâ djim évri mórnin",
+    "translation": "ele vai à academia toda manhã",
+    "level": "basic"
+  },
+  {
+    "text": "i prefer tea over coffee",
+    "pronunciation": "ai prifér tii ôuvêr cófi",
+    "translation": "eu prefiro chá a café",
+    "level": "basic"
+  },
+  {
+    "text": "can we meet at the park later",
+    "pronunciation": "ken uí mít ét dhâ párk lêiter",
+    "translation": "podemos nos encontrar no parque mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "i like to drink coffee in the morning",
+    "pronunciation": "ai laik tu drink cófi in dhâ mórnin",
+    "translation": "eu gosto de tomar café de manhã",
+    "level": "basic"
+  },
+  {
+    "text": "she always listens to music while working",
+    "pronunciation": "shi ólueiz líssens tu miuzik uáil uôrkin",
+    "translation": "ela sempre escuta música enquanto trabalha",
+    "level": "basic"
+  },
+  {
+    "text": "we are going to the supermarket later",
+    "pronunciation": "uí ar gôuin tu dhâ súpêrmarket lêiter",
+    "translation": "nós vamos ao supermercado mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "can you please help me with this task",
+    "pronunciation": "ken iú plíz rélp mi uíth dhis téssk",
+    "translation": "você pode me ajudar com essa tarefa",
+    "level": "basic"
+  },
+  {
+    "text": "i usually wake up at seven and take a shower",
+    "pronunciation": "ai iujúali uêik âp ét séven end teik â sháuêr",
+    "translation": "eu geralmente acordo às sete e tomo banho",
+    "level": "basic"
+  },
+  {
+    "text": "he likes to play soccer with his friends",
+    "pronunciation": "ri laiks tu plêi sókêr uíth riz frends",
+    "translation": "ele gosta de jogar futebol com os amigos",
+    "level": "basic"
+  },
+  {
+    "text": "they are watching a movie together",
+    "pronunciation": "dêi ar uótchin â múvi tugéder",
+    "translation": "eles estão assistindo a um filme juntos",
+    "level": "basic"
+  },
+  {
+    "text": "i always brush my teeth before bed",
+    "pronunciation": "ai ólueiz brâsh mai títh bifór béd",
+    "translation": "eu sempre escovo os dentes antes de dormir",
+    "level": "basic"
+  },
+  {
+    "text": "my brother is taller than me",
+    "pronunciation": "mai brâdêr iz tóler dhén mi",
+    "translation": "meu irmão é mais alto que eu",
+    "level": "basic"
+  },
+  {
+    "text": "we need to clean the kitchen today",
+    "pronunciation": "uí niid tu clín dhâ kítchên tudêi",
+    "translation": "precisamos limpar a cozinha hoje",
+    "level": "basic"
+  },
+  {
+    "text": "i have a lot of things to do",
+    "pronunciation": "ai rév â lót óv things tu du",
+    "translation": "eu tenho muitas coisas para fazer",
+    "level": "basic"
+  },
+  {
+    "text": "please speak more slowly",
+    "pronunciation": "plíz spik mór slôuli",
+    "translation": "por favor, fale mais devagar",
+    "level": "basic"
+  },
+  {
+    "text": "do you want to go out for lunch",
+    "pronunciation": "du iú uónt tu gôu aut fór lântch",
+    "translation": "você quer sair para almoçar",
+    "level": "basic"
+  },
+  {
+    "text": "i am going to visit my grandparents tomorrow",
+    "pronunciation": "ai am gôuin tu vízit mai gréndpérêts tumórôu",
+    "translation": "vou visitar meus avós amanhã",
+    "level": "basic"
+  },
+  {
+    "text": "the dog is playing in the garden",
+    "pronunciation": "dhâ dógu iz plêin in dhâ jârdên",
+    "translation": "o cachorro está brincando no jardim",
+    "level": "basic"
+  },
+  {
+    "text": "she is reading an interesting book",
+    "pronunciation": "shi iz ríidin én íntrestin buk",
+    "translation": "ela está lendo um livro interessante",
+    "level": "basic"
+  },
+  {
+    "text": "do you like to cook at home",
+    "pronunciation": "du iú laik tu kuk ét rôum",
+    "translation": "você gosta de cozinhar em casa",
+    "level": "basic"
+  },
+  {
+    "text": "he goes to the gym every morning",
+    "pronunciation": "ri gôuz tu dhâ djim évri mórnin",
+    "translation": "ele vai à academia toda manhã",
+    "level": "basic"
+  },
+  {
+    "text": "i prefer tea over coffee",
+    "pronunciation": "ai prifér tii ôuvêr cófi",
+    "translation": "eu prefiro chá a café",
+    "level": "basic"
+  },
+  {
+    "text": "can we meet at the park later",
+    "pronunciation": "ken uí mít ét dhâ párk lêiter",
+    "translation": "podemos nos encontrar no parque mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "i like to drink coffee in the morning",
+    "pronunciation": "ai laik tu drink cófi in dhâ mórnin",
+    "translation": "eu gosto de tomar café de manhã",
+    "level": "basic"
+  },
+  {
+    "text": "she always listens to music while working",
+    "pronunciation": "shi ólueiz líssens tu miuzik uáil uôrkin",
+    "translation": "ela sempre escuta música enquanto trabalha",
+    "level": "basic"
+  },
+  {
+    "text": "we are going to the supermarket later",
+    "pronunciation": "uí ar gôuin tu dhâ súpêrmarket lêiter",
+    "translation": "nós vamos ao supermercado mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "can you please help me with this task",
+    "pronunciation": "ken iú plíz rélp mi uíth dhis téssk",
+    "translation": "você pode me ajudar com essa tarefa",
+    "level": "basic"
+  },
+  {
+    "text": "i usually wake up at seven and take a shower",
+    "pronunciation": "ai iujúali uêik âp ét séven end teik â sháuêr",
+    "translation": "eu geralmente acordo às sete e tomo banho",
+    "level": "basic"
+  },
+  {
+    "text": "he likes to play soccer with his friends",
+    "pronunciation": "ri laiks tu plêi sókêr uíth riz frends",
+    "translation": "ele gosta de jogar futebol com os amigos",
+    "level": "basic"
+  },
+  {
+    "text": "they are watching a movie together",
+    "pronunciation": "dêi ar uótchin â múvi tugéder",
+    "translation": "eles estão assistindo a um filme juntos",
+    "level": "basic"
+  },
+  {
+    "text": "i always brush my teeth before bed",
+    "pronunciation": "ai ólueiz brâsh mai títh bifór béd",
+    "translation": "eu sempre escovo os dentes antes de dormir",
+    "level": "basic"
+  },
+  {
+    "text": "my brother is taller than me",
+    "pronunciation": "mai brâdêr iz tóler dhén mi",
+    "translation": "meu irmão é mais alto que eu",
+    "level": "basic"
+  },
+  {
+    "text": "we need to clean the kitchen today",
+    "pronunciation": "uí niid tu clín dhâ kítchên tudêi",
+    "translation": "precisamos limpar a cozinha hoje",
+    "level": "basic"
+  },
+  {
+    "text": "i have a lot of things to do",
+    "pronunciation": "ai rév â lót óv things tu du",
+    "translation": "eu tenho muitas coisas para fazer",
+    "level": "basic"
+  },
+  {
+    "text": "please speak more slowly",
+    "pronunciation": "plíz spik mór slôuli",
+    "translation": "por favor, fale mais devagar",
+    "level": "basic"
+  },
+  {
+    "text": "do you want to go out for lunch",
+    "pronunciation": "du iú uónt tu gôu aut fór lântch",
+    "translation": "você quer sair para almoçar",
+    "level": "basic"
+  },
+  {
+    "text": "i am going to visit my grandparents tomorrow",
+    "pronunciation": "ai am gôuin tu vízit mai gréndpérêts tumórôu",
+    "translation": "vou visitar meus avós amanhã",
+    "level": "basic"
+  },
+  {
+    "text": "the dog is playing in the garden",
+    "pronunciation": "dhâ dógu iz plêin in dhâ jârdên",
+    "translation": "o cachorro está brincando no jardim",
+    "level": "basic"
+  },
+  {
+    "text": "she is reading an interesting book",
+    "pronunciation": "shi iz ríidin én íntrestin buk",
+    "translation": "ela está lendo um livro interessante",
+    "level": "basic"
+  },
+  {
+    "text": "do you like to cook at home",
+    "pronunciation": "du iú laik tu kuk ét rôum",
+    "translation": "você gosta de cozinhar em casa",
+    "level": "basic"
+  },
+  {
+    "text": "he goes to the gym every morning",
+    "pronunciation": "ri gôuz tu dhâ djim évri mórnin",
+    "translation": "ele vai à academia toda manhã",
+    "level": "basic"
+  },
+  {
+    "text": "i prefer tea over coffee",
+    "pronunciation": "ai prifér tii ôuvêr cófi",
+    "translation": "eu prefiro chá a café",
+    "level": "basic"
+  },
+  {
+    "text": "can we meet at the park later",
+    "pronunciation": "ken uí mít ét dhâ párk lêiter",
+    "translation": "podemos nos encontrar no parque mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "i like to drink coffee in the morning",
+    "pronunciation": "ai laik tu drink cófi in dhâ mórnin",
+    "translation": "eu gosto de tomar café de manhã",
+    "level": "basic"
+  },
+  {
+    "text": "she always listens to music while working",
+    "pronunciation": "shi ólueiz líssens tu miuzik uáil uôrkin",
+    "translation": "ela sempre escuta música enquanto trabalha",
+    "level": "basic"
+  },
+  {
+    "text": "we are going to the supermarket later",
+    "pronunciation": "uí ar gôuin tu dhâ súpêrmarket lêiter",
+    "translation": "nós vamos ao supermercado mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "can you please help me with this task",
+    "pronunciation": "ken iú plíz rélp mi uíth dhis téssk",
+    "translation": "você pode me ajudar com essa tarefa",
+    "level": "basic"
+  },
+  {
+    "text": "i usually wake up at seven and take a shower",
+    "pronunciation": "ai iujúali uêik âp ét séven end teik â sháuêr",
+    "translation": "eu geralmente acordo às sete e tomo banho",
+    "level": "basic"
+  },
+  {
+    "text": "he likes to play soccer with his friends",
+    "pronunciation": "ri laiks tu plêi sókêr uíth riz frends",
+    "translation": "ele gosta de jogar futebol com os amigos",
+    "level": "basic"
+  },
+  {
+    "text": "they are watching a movie together",
+    "pronunciation": "dêi ar uótchin â múvi tugéder",
+    "translation": "eles estão assistindo a um filme juntos",
+    "level": "basic"
+  },
+  {
+    "text": "i always brush my teeth before bed",
+    "pronunciation": "ai ólueiz brâsh mai títh bifór béd",
+    "translation": "eu sempre escovo os dentes antes de dormir",
+    "level": "basic"
+  },
+  {
+    "text": "my brother is taller than me",
+    "pronunciation": "mai brâdêr iz tóler dhén mi",
+    "translation": "meu irmão é mais alto que eu",
+    "level": "basic"
+  },
+  {
+    "text": "we need to clean the kitchen today",
+    "pronunciation": "uí niid tu clín dhâ kítchên tudêi",
+    "translation": "precisamos limpar a cozinha hoje",
+    "level": "basic"
+  },
+  {
+    "text": "i have a lot of things to do",
+    "pronunciation": "ai rév â lót óv things tu du",
+    "translation": "eu tenho muitas coisas para fazer",
+    "level": "basic"
+  },
+  {
+    "text": "please speak more slowly",
+    "pronunciation": "plíz spik mór slôuli",
+    "translation": "por favor, fale mais devagar",
+    "level": "basic"
+  },
+  {
+    "text": "do you want to go out for lunch",
+    "pronunciation": "du iú uónt tu gôu aut fór lântch",
+    "translation": "você quer sair para almoçar",
+    "level": "basic"
+  },
+  {
+    "text": "i am going to visit my grandparents tomorrow",
+    "pronunciation": "ai am gôuin tu vízit mai gréndpérêts tumórôu",
+    "translation": "vou visitar meus avós amanhã",
+    "level": "basic"
+  },
+  {
+    "text": "the dog is playing in the garden",
+    "pronunciation": "dhâ dógu iz plêin in dhâ jârdên",
+    "translation": "o cachorro está brincando no jardim",
+    "level": "basic"
+  },
+  {
+    "text": "she is reading an interesting book",
+    "pronunciation": "shi iz ríidin én íntrestin buk",
+    "translation": "ela está lendo um livro interessante",
+    "level": "basic"
+  },
+  {
+    "text": "do you like to cook at home",
+    "pronunciation": "du iú laik tu kuk ét rôum",
+    "translation": "você gosta de cozinhar em casa",
+    "level": "basic"
+  },
+  {
+    "text": "he goes to the gym every morning",
+    "pronunciation": "ri gôuz tu dhâ djim évri mórnin",
+    "translation": "ele vai à academia toda manhã",
+    "level": "basic"
+  },
+  {
+    "text": "i prefer tea over coffee",
+    "pronunciation": "ai prifér tii ôuvêr cófi",
+    "translation": "eu prefiro chá a café",
+    "level": "basic"
+  },
+  {
+    "text": "can we meet at the park later",
+    "pronunciation": "ken uí mít ét dhâ párk lêiter",
+    "translation": "podemos nos encontrar no parque mais tarde",
+    "level": "basic"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "i usually go for a walk after lunch",
+    "pronunciation": "ai iujúali gôu fór â uók áftêr lântch",
+    "translation": "eu geralmente dou uma caminhada depois do almoço",
+    "level": "intermediate"
+  },
+  {
+    "text": "she studies english every evening at home",
+    "pronunciation": "shi stâdis ínglish évri ívning ét rôum",
+    "translation": "ela estuda inglês toda noite em casa",
+    "level": "intermediate"
+  },
+  {
+    "text": "they always take the bus to work",
+    "pronunciation": "dêi ólueiz teik dhâ bãs tu uârk",
+    "translation": "eles sempre pegam o ônibus para o trabalho",
+    "level": "intermediate"
+  },
+  {
+    "text": "he is trying to learn a new language",
+    "pronunciation": "ri iz tráin tu lârn â niu lânguídj",
+    "translation": "ele está tentando aprender um novo idioma",
+    "level": "intermediate"
+  },
+  {
+    "text": "we are planning a family trip to the beach",
+    "pronunciation": "uí ar plénin â fámili trip tu dhâ bítch",
+    "translation": "estamos planejando uma viagem em família para a praia",
+    "level": "intermediate"
+  },
+  {
+    "text": "i need to finish this report before friday",
+    "pronunciation": "ai niid tu fínix dhis ripórt bifór fráidei",
+    "translation": "preciso terminar este relatório antes da sexta-feira",
+    "level": "intermediate"
+  },
+  {
+    "text": "she likes to cook dinner for her children",
+    "pronunciation": "shi laiks tu kuk dîner fór râr tchildrên",
+    "translation": "ela gosta de cozinhar o jantar para os filhos",
+    "level": "intermediate"
+  },
+  {
+    "text": "the children are playing outside in the yard",
+    "pronunciation": "dhâ tchildrên ar plêin autsáid in dhâ iárd",
+    "translation": "as crianças estão brincando lá fora no quintal",
+    "level": "intermediate"
+  },
+  {
+    "text": "i am reading a very interesting book",
+    "pronunciation": "ai am ríidin â véri íntrestin buk",
+    "translation": "estou lendo um livro muito interessante",
+    "level": "intermediate"
+  },
+  {
+    "text": "he goes to the gym three times a week",
+    "pronunciation": "ri gôuz tu dhâ djim thrí taims â uík",
+    "translation": "ele vai à academia três vezes por semana",
+    "level": "intermediate"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  },
+  {
+    "text": "although it was raining, they decided to continue the journey",
+    "pronunciation": "óldhô it uóz rêinin, dêi disáidid tu contíniû dhâ djârnêi",
+    "translation": "embora estivesse chovendo, eles decidiram continuar a jornada",
+    "level": "advanced"
+  },
+  {
+    "text": "she has been working remotely for over a year now",
+    "pronunciation": "shi réz bin uôrkin rimôtli fór ôuvêr â íâr nau",
+    "translation": "ela está trabalhando remotamente há mais de um ano",
+    "level": "advanced"
+  },
+  {
+    "text": "we need to evaluate the proposal before making a decision",
+    "pronunciation": "uí niid tu evaliúeit dhâ propôusâl bifór mêikin â décijân",
+    "translation": "precisamos avaliar a proposta antes de tomar uma decisão",
+    "level": "advanced"
+  },
+  {
+    "text": "he was promoted due to his consistent performance",
+    "pronunciation": "ri uóz promôuted diu tu riz cânzístênt perfórmâns",
+    "translation": "ele foi promovido por causa de seu desempenho consistente",
+    "level": "advanced"
+  },
+  {
+    "text": "if i had known about the meeting, i would have prepared better",
+    "pronunciation": "if ai réd nôun abáut dhâ míiring, ai uld rév pripérd béter",
+    "translation": "se eu soubesse da reunião, teria me preparado melhor",
+    "level": "advanced"
+  },
+  {
+    "text": "they managed to complete the project ahead of schedule",
+    "pronunciation": "dêi ménidjt tu complít dhâ pródject âréd óv skédjul",
+    "translation": "eles conseguiram concluir o projeto antes do previsto",
+    "level": "advanced"
+  },
+  {
+    "text": "this research paper explores complex philosophical ideas",
+    "pronunciation": "dhis rísearch péipêr eksplórz cómplex filôsófikâl aidías",
+    "translation": "este artigo explora ideias filosóficas complexas",
+    "level": "advanced"
+  },
+  {
+    "text": "the team is collaborating to develop an innovative solution",
+    "pronunciation": "dhâ tím iz colébôrêitin tu divélâp én ínovêitiv sâlúxân",
+    "translation": "a equipe está colaborando para desenvolver uma solução inovadora",
+    "level": "advanced"
+  },
+  {
+    "text": "i am looking forward to presenting our results next week",
+    "pronunciation": "ai am lúkin fóruârd tu prizéntin auâr rizálts nékst uík",
+    "translation": "estou ansioso para apresentar nossos resultados na próxima semana",
+    "level": "advanced"
+  },
+  {
+    "text": "despite the challenges, the company continues to grow steadily",
+    "pronunciation": "dispáit dhâ tchélêndjis, dhâ câmpani contíniuz tu grôu stédili",
+    "translation": "apesar dos desafios, a empresa continua crescendo de forma constante",
+    "level": "advanced"
+  }
+]
